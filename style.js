@@ -40,7 +40,7 @@ function flashRainbowColors(callback) {
     }, 2000); // Flash colors for 2 seconds
 }
 
-// Function to display the cat.gif initially
+// Function to display the cat.gif // initially
 function displayCat() {
     // Get the container where the image will be displayed
     var imageContainer = document.getElementById('image-container');
